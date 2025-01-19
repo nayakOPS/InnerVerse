@@ -1,0 +1,3 @@
+[submodule "nayakblog/themes/FixIt"]
+	path = nayakblog/themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
