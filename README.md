@@ -1,6 +1,6 @@
-# Nayak Blog
+# InnverVerse
 
-Welcome to the **Nayak Blog** repository! This is a personal blog built using the Hugo static site generator with the FixIt theme. The blog is designed to share insights, tutorials, and experiences in a clean and responsive layout.
+Welcome to the **InnerVerse Blog** repository! This is a personal blog built using the Hugo static site generator with the FixIt theme. The blog is designed to share insights, tutorials, and experiences in a clean and responsive layout.
 
 ## 🚀 Features
 - Modern and responsive design using the **FixIt** theme.
@@ -21,7 +21,7 @@ Follow these steps to set up the project on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url> nayakblog
+git clone https://github.com/nayakOPS/InnerVerse.git
 cd nayakblog
 ```
 
@@ -72,18 +72,6 @@ To add a new post, use the following command:
 hugo new content/posts/my-new-post.md
 ```
 Edit the generated Markdown file in the `content/posts/` directory to write your content.
-
----
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 👥 Contributors
-- **Your Name**
-
-Feel free to fork this repository and contribute to its development!
 
 ---
 
